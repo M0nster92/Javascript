@@ -16,7 +16,7 @@ Implementation of (Tree, linkList, recursion, stack, heap, graph) using JavaScri
 
 [Bubble Sort](https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Bubble_Sort)
 
-LinkList: https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/link_list
+[LinkList](https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/link_list)
 
 [Note: Create a node first in the Javascript console {var node = new SinglyLinkedList();},
 then for push {node.push(5); node.push(10); node.push(15);},
