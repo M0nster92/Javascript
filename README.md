@@ -14,7 +14,7 @@ Insertation Sort : https://github.com/M0nster92/DataStructure-in-JavaScript/tree
 
 Selection Sort : https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Selection_Sort
 
-Bubble Sort : https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Bubble_Sort
+[Bubble Sort](https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Bubble_Sort)
 
 LinkList: https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/link_list
 
