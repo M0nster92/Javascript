@@ -2,17 +2,17 @@
 Implementation of (Tree, linkList, recursion, stack, heap, graph) using JavaScript
 
 
-Function Call : https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/function_call
+[Function Call](https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/function_call)
 
-Class : https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Class
+[Class](https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Class)
 
-Recursion : https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Recurrsion
+[Recursion](https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Recurrsion)
 
-Linear Search : https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/linear_search
+[Linear Search](https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/linear_search)
 
-Insertation Sort : https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Insertation_Sort
+[Insertation Sort](https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Insertation_Sort)
 
-Selection Sort : https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Selection_Sort
+[Selection Sort](https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Selection_Sort)
 
 [Bubble Sort](https://github.com/M0nster92/DataStructure-in-JavaScript/tree/master/Bubble_Sort)
 
