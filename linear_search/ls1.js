@@ -5,4 +5,4 @@ function linearSearch(arr, val){
     return -1;
 }
 
-linearSearch([34,51,1,2,3,45,56,687], 45)
+console.log(linearSearch([34,51,1,2,3,45,56,687], 45))
