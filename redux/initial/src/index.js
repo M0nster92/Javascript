@@ -1,14 +1,14 @@
-import store from "./custom-redux";
-import { bugAdded, bugResolved } from "./action-creators";
+import configureStore from "./store/configureStore";
+import { projectAdded, projectDone } from "./store/project";
 
-store.subscribe(() => console.log("state changed"));
+const store = configureStore();
 
-store.dispatch(bugAdded("newbug1"));
-store.dispatch(bugResolved(1));
+/*const store = configureBugStore(); 
 
+store.dispatch(bugAdded({ description: "new bug1" }));
+store.dispatch(bugAdded({ description: "new bug1" }));
+store.dispatch(bugResolved({ id: 1 })); */
+
+store.dispatch(projectAdded({ name: "new project", done: false }));
+store.dispatch(projectDone({ id: 1 }));
 console.log(store.getState());
-
-//store.dispatch(bugAdded("newbug1"));
-//store.dispatch(bugResolved(1));
-
-//console.log(store.getState());
