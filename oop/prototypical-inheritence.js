@@ -22,6 +22,11 @@ Circle.prototype.draw = function () {
   console.log("draw");
 };
 
+//method overriding
+Circle.prototype.duplicate = function () {
+  console.log("duplicate circle");
+};
+
 function Square(size) {
   this.size = size;
 }

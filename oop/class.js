@@ -1,3 +1,18 @@
+//factory function
+
+function CreateCircle(radius) {
+  return {
+    radius,
+    draw: function () {
+      console.log("draw");
+    },
+  };
+}
+
+const c1 = CreateCircle(4);
+const c2 = CreateCircle(8);
+
+//constructor function
 function Circle(radius) {
   this.radius = radius;
   let defaultLocation = { x: 0, y: 0 };
