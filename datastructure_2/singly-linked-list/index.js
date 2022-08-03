@@ -76,6 +76,29 @@ class LinkedList {
     return this;
   }
 
+  get(index) {
+    if (index > 0 || index >= this.length) {
+      return null;
+    }
+
+    let temp = this.head;
+    let i = 0;
+    while (i != index) {
+      temp = temp.next;
+      i++;
+    }
+    return temp;
+  }
+
+  set(index, val) {
+    let node = this.get(index);
+    if (node) {
+      node.val = val;
+      return true;
+    }
+    return false;
+  }
+
   printList() {
     console.log("Printing the linked list ---> length:", this.length);
     let temp = this.head;
